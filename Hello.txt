@@ -1,1 +1,4 @@
 This is my first git file. 
+
+This is another line after modification and deleting index.lock .
+
